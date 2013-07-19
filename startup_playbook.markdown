@@ -4,7 +4,7 @@ a four chapter presentation by
 Mike Subelsky
 @subelsky
 
-links posted to subelsky.com
+links posted to http://subelsky.com
 
 # Prologue: Qualifications/unqualifications
 
