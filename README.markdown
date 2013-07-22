@@ -1,4 +1,5 @@
-# a web product playbook: technology and business strategies
+# a web product playbook: technology
+  and business strategies
 
 a four chapter presentation by
 Mike Subelsky
