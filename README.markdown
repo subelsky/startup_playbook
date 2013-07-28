@@ -63,7 +63,7 @@ links posted to http://subelsky.com
 # Build little/no software at first
 
 * http://viniciusvacanti.com/2013/05/07/the-manual-first-startup/
-
+* http://steveblank.com/2013/07/22/an-mvp-is-not-a-cheaper-product-its-about-smart-learning/
 # Make the simplest thing that could possibly work
 
 * aka MVP
